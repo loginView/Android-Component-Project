@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button_listview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ListView"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/purple"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/button_alertdialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/AlertDialog"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/purple"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/button_xmlmenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/purple"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        android:layout_marginBottom="10dp"/>
+
+    <Button
+        android:id="@+id/button_actionmode_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ActionMode"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/purple"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+
+</LinearLayout>

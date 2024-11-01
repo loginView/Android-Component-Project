@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">UIComponents</string>
+    <string name="back">返回</string>
+    
+    <string name="ListView">Android ListView的用法</string>
+    <string name="AlertDialog">创建自定义布局的AlertDialog</string>
+    <string name="menu">使用XML定义菜单</string>
+    <string name="ActionMode">创建上下文操作模式的上下文菜单</string>
+    
+    <string name="lion">Lion</string>
+    <string name="tiger">Tiger</string>
+    <string name="monkey">Monkey</string>
+    <string name="dog">Dog</string>
+    <string name="cat">Cat</string>
+    <string name="elephant">Elephant</string>
+    <string name="animal">Animal</string>
+
+    <string name="title">ANDROID APP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+
+    <string name="testtext">用于测试的内容</string>
+    <string name="listItemImage">List item image</string>
+    <string name="delete">删除</string>
+
+    <string name="fontSize">字体大小</string>
+    <string name="small">小 (10号字)</string>
+    <string name="medium">中 (16号字)</string>
+    <string name="large">大 (20号字)</string>
+    <string name="fontColor">字体颜色</string>
+    <string name="red">红色</string>
+    <string name="black">黑色</string>
+    <string name="normalMenuItems">普通菜单项</string>
+
+</resources>
